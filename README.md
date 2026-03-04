@@ -1,2 +1,9 @@
 # blessy-sara-korah
-Enterprise Application Engineer with 12+ years of experience (10+ in UAE) delivering scalable CRM, ERP, CAD automation, and quantity take-off systems. Expert in modular architecture, document processing, API integration, and data modeling. Experienced in AI/ML exposure, OCR pipelines, and cloud-native design with strong stakeholder collaboration.
+**12+ Years Experience (UAE Based) | Specialist in CAD Automation, BIM AI, & High-Performance Document Pipelines**
+
+Senior Engineer with a decade of experience in the UAE building high-stakes enterprise systems (ERP, CRM, Quantity Takeoff). My expertise lies in high-performance data modeling, bridging legacy CAD desktop environments with modern Cloud/AI architectures.
+
+- 🏗 **Domain Expertise:** Quantity Takeoff (QTO), AEC/BIM Automation, Hotel Management Systems.
+- 🛠 **Core Stack:** .NET 8, C#, Python, SQL Server/SQLite, AWS Bedrock.
+- ⚡ **Specialty:** Designing "Hybrid" systems that process heavy local data (IFC/PDF/CAD) for lean Cloud AI analysis.
+
